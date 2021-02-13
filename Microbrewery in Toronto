@@ -1,0 +1,12 @@
+Problem: Choosing the best Location to establish a Microbrewery in Toronto
+Stakeholders: Entrepreneurs, and Young (Under 40yr old), Middle (Mid-Low) Income people
+
+Introduction: Toronto is a diverse city and the largest metropolitan area in Canada. As such, it is desirable for many younger people to move to this city in pursuit of work. With such growth comes more opportunities and potentials.
+In the last decade, microbreweries became increasingly popular in various cities in North America, especially larger cities that are still growing (such as Vancouver, Portland, San Jose, Seattle, and Toronto). 
+It seems that compared to smaller metropolitan areas like Vancouver and Portland, Toronto has a smaller number of Microbreweries. For example, there are 40 microbreweries in Metro Vancouver, while the number is the same for Toronto, which has a population more than double that of Metro Vancouver. 
+
+In this project, we would like to use available data to identify the best neighbourhood to establish our new microbrewery.
+
+Data:
+We use Wikipedia, Foursquare API as well as the City of Toronto’s census data (From Toronto Open Portal).
+To gather Neighbourhoods and Boroughs table, we use Wikipedia. For information on the distribution of existing microbreweries, we use Foursquare API, and to gather age/income information, we use the census data from Toronto Open Portal.
